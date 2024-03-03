@@ -3,4 +3,4 @@ variable "subnet_ids" {
   type    = list(string)
   default = []
 }
-# Define other variables as needed
+# Define other variables as needed according to requirement
