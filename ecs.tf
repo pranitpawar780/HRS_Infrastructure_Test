@@ -13,7 +13,7 @@ module "ecs" {
   services = {
     my_microservice_1 = {
       desired_count  = 2
-      image          = "your-docker-image-url-for-microservice-1"
+      image          = "docker-image-url-for-microservice-1"
       container_port = 8080
       container_name = "microservice-1"
       environment    = {

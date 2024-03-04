@@ -14,6 +14,9 @@
   ├── variables.tf
   └── outputs.tf
 
+### Infrastructure Architecture Diagram
+![AWS Architecture](aws_arch.png)
+
 ### Supporting Engineers:
 * Documentation: Provide detailed documentation explaining each module, variable, and output in your Terraform configuration. Include instructions on how to modify configurations for new services.
 
